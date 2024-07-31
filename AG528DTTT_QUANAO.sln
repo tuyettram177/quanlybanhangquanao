@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AG528DTTT_QUANAO(6)", ".", "{28C21E4E-EA51-48CE-A976-E227E39107BD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58933"
+		Debug.AspNetCompiler.PhysicalPath = "..\AG528DTTT_QUANAO\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58933\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58933"
+		Release.AspNetCompiler.PhysicalPath = "..\AG528DTTT_QUANAO\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58933\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58933"
+		SlnRelativePath = "..\AG528DTTT_QUANAO\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C21E4E-EA51-48CE-A976-E227E39107BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C21E4E-EA51-48CE-A976-E227E39107BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C6E42A-D289-4A78-9BF1-1F226D4B509B}
+	EndGlobalSection
+EndGlobal
